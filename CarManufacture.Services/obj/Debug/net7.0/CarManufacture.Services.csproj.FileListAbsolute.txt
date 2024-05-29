@@ -1,0 +1,12 @@
+C:\github\CarManufacture\CarManufacture.Services\bin\Debug\net7.0\CarManufacture.Services.deps.json
+C:\github\CarManufacture\CarManufacture.Services\bin\Debug\net7.0\CarManufacture.Services.dll
+C:\github\CarManufacture\CarManufacture.Services\bin\Debug\net7.0\CarManufacture.Services.pdb
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\CarManufacture.Services.csproj.AssemblyReference.cache
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\CarManufacture.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\CarManufacture.Services.AssemblyInfoInputs.cache
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\CarManufacture.Services.AssemblyInfo.cs
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\CarManufacture.Services.csproj.CoreCompileInputs.cache
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\CarManufacture.Services.dll
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\refint\CarManufacture.Services.dll
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\CarManufacture.Services.pdb
+C:\github\CarManufacture\CarManufacture.Services\obj\Debug\net7.0\ref\CarManufacture.Services.dll
